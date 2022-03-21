@@ -1,0 +1,32 @@
+[
+    {
+        "nama": "Denny",
+        "umur": "22",
+        "nim": "L200190101",
+        "lulus": true,
+        "hobby": [
+            "berenang",
+            "bersepeda",
+            "bermain game"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Rizki Gebian",
+            "pembimbing2": "Rizki Rizal"
+        }
+    },
+    {
+        "nama": "Denny",
+        "umur": "22",
+        "nim": "L200190101",
+        "lulus": true,
+        "hobby": [
+            "berenang",
+            "bersepeda",
+            "bermain game"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Rizki Gebian",
+            "pembimbing2": "Rizki Rizal"
+        }
+    }
+]
